@@ -25,4 +25,4 @@ HireHub is a web-based application that connects skilled workers such as barbers
 ### Installation
 1. Clone the repository
    ```bash
-   git clone https://github.com/your-username/hirehub-frontend.git
+   git clone https://github.com/felix-216/hirehub.git
